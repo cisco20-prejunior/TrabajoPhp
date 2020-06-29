@@ -183,22 +183,8 @@
 				</div>
 			</section>
 		</main>
-		<footer>
-			<div class="contenedor-footer">
-				<div class="content-foo">
-					<h4>Telefono</h4>
-					<p>975489558</p>
-				</div>
-				<div class="content-foo">
-					<h4>Email</h4>
-					<p>PFL school</p>
-				</div>
-				<div class="content-foo">
-					<h4>Ubicacion</h4>
-					<p>La Cecilia 243</p>
-				</div>
-			</div>
-			<h2 class="titulo-final">&copy; Colegio PFL | PaFraLu</h2>
-		</footer>
+	<?php 
+		include "partials//footer.php";
+	?>
 	</body>
 </html>
